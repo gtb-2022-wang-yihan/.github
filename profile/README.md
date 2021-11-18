@@ -22,7 +22,8 @@ Here is a pic of **Montreal city**:
 - favourite animal: :lion:	
 - favourite food: :icecream:
 ---
-> La Vie En Rose
 ![](../assets/64a25e994a413282f4c301f6238ad3cf_t.gif)
+
+> La Vie En Rose
 
 
