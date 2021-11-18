@@ -18,7 +18,7 @@ Here is a pic of **Montreal city**:
 - favourite singer: Jude C. & Billie Eilish
 - favourite colour: blue 
 - favourite cartoon: Rick and Morty
-- <img src="../assets/f5f4e80f90f2b935f4b1d4efc81ca2e.jpg" width="50%" >
+- <img src="../assets/f5f4e80f90f2b935f4b1d4efc81ca2e.jpg" width="40%" >
 - favourite animal: :lion:	
 - favourite food: :icecream:
 ---
