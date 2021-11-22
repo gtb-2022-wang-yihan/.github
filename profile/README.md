@@ -6,7 +6,6 @@
 ##### I'm yihan.      
 
 I studied in a bilingual business school in Montreal for many years. 
-I majored in Financial Economics.
 
 Montreal is a French-speaking city. 
 Here is a pic of **Montreal city**:
